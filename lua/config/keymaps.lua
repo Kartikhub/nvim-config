@@ -1,1 +1,1 @@
-vim.keymap.set('n', '<leader>p', '"+p', {})
+vim.keymap.set("n", "S-p", '"+p', {})
